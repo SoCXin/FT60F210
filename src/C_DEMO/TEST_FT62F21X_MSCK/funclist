@@ -1,0 +1,5 @@
+_MSCK_Init: CODE, 41 0 4
+_ISR: CODE, 34 0 7
+_main: CODE, 24 0 10
+_POWER_INITIAL: CODE, 11 0 13
+Total: 34

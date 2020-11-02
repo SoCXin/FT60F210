@@ -1,0 +1,7 @@
+_DelayUs: CODE, 55 0 9
+_ISR: CODE, 72 0 7
+_main: CODE, 11 0 16
+_DelayMs: CODE, 27 0 16
+_POWER_INITIAL: CODE, 43 0 12
+_WDT_INITIAL: CODE, 64 0 8
+Total: 68

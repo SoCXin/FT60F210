@@ -1,0 +1,10 @@
+_WriteDisable: CODE, 915 0 5
+_SPI_RW: CODE, 995 0 29
+_init_25c64_io: CODE, 906 0 4
+_main: CODE, 943 0 15
+_POWER_INITIAL: CODE, 928 0 15
+_SPI_Write: CODE, 974 0 21
+_SPI_Read: CODE, 958 0 16
+_WriteEnable: CODE, 910 0 5
+_SPI_ReadStatus: CODE, 920 0 8
+Total: 118
