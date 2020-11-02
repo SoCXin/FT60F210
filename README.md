@@ -6,6 +6,7 @@
 #### [Core](https://github.com/SoCXin/STM8)：[RISC](https://github.com/SoCXin/RISC)
 #### [Level](https://github.com/SoCXin/Level)：16MHz
 
+* SOT23-6 小封装
 
 ### [选型建议](https://github.com/SoCXin)
 
